@@ -2,5 +2,8 @@
   "testExample": "Test example",
   "translate": "Translate",
   "main": "Main",
-  "language": "Русский"
+  "language": "Русский",
+  "not-found": "Page not found",
+  "error": "Error",
+  "refresh": "Refresh"
 }

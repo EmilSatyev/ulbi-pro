@@ -2,5 +2,8 @@
   "testExample": "Тестовый пример",
   "translate": "Перевод",
   "main": "Главная",
-  "language": "English"
+  "language": "English",
+  "not-found": "Страница не найдена",
+  "error": "Ошибка",
+  "refresh": "Обновить"
 }
